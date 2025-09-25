@@ -38,7 +38,7 @@
 
 ### 💼 Work Experience
 
-- **Front-End Developer** @ Falinoos Company (Jul 2025 – Present)  
+- **Front-End Developer** @ Falinoos Company (Jul 2025 – Oct 2025)  
   - Developed the **MegaPaper** web app using Next.js & MUI.  
   - Optimized **Elasticsearch with Docker** to boost search performance.  
   - [Project Link](https://github.com/sb878787/Docker-ElasticSearch)
