@@ -73,84 +73,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">FaraIdeh</h3>
-      <p align="center">
-        <a href="https://github.com/sb878787/FaraIdeh" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sb878787&repo=FaraIdeh&theme=tokyonight" alt="FaraIdeh" />
-        </a>
-      </p>
-      <p align="center">
-        Full-stack digital agency platform with CMS, blog system, and admin panel
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Dero Investment App</h3>
-      <p align="center">
-        <a href="https://github.com/sb878787/dero" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sb878787&repo=dero&theme=tokyonight" alt="Dero" />
-        </a>
-      </p>
-      <p align="center">
-        Cross-platform investment app for farming & handicrafts (🏆 2nd Place National Competition)
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Docker-ElasticSearch</h3>
-      <p align="center">
-        <a href="https://github.com/sb878787/Docker-ElasticSearch" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sb878787&repo=Docker-ElasticSearch&theme=tokyonight" alt="ElasticSearch" />
-        </a>
-      </p>
-      <p align="center">
-        Elasticsearch setup with Docker for MegaPaper search optimization
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Naranj Internal Tools</h3>
-      <p align="center">
-        <a href="https://github.com/sb878787/naranj" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sb878787&repo=naranj&theme=tokyonight" alt="Naranj" />
-        </a>
-      </p>
-      <p align="center">
-        Internal company project with modern Vue.js architecture
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎓 Certifications & Training
-
-- **Cro.Code.ile Bootcamp 2** - Front-End Development *(Part Software Group, 2025)*
-- **Cangrow 1** - Cloud & DevOps Fundamentals *(Part Software Group, 2024)*
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sb878787&show_icons=true&hide_border=true&theme=default" />
@@ -173,10 +95,6 @@
   <a href="https://github.com/sb878787">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sb878787&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
