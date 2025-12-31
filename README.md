@@ -75,8 +75,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sb878787&show_icons=true&hide_border=true&theme=default](https://github-readme-stats.vercel.app/api?          username=sb878787&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=sb878787&theme=dark&hide_border=false" />
 </div>
 
