@@ -73,7 +73,8 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=sb878787&theme=dark&hide_border=false" />
 </div>
