@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ali Saberi</h1>
-<h3 align="center">Full-Stack Developer | React, Next.js, Vue | Passionate about UX & Performance</h3>
+<h3 align="center">Front-End Developer | React, Next.js, Vue | Passionate about UX & Performance</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;3%2B+Years+of+Experience;Open+Source+Enthusiast;Award-Winning+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;3%2B+Years+of+Experience;Open+Source+Enthusiast;Award-Winning+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
