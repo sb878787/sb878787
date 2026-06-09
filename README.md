@@ -57,7 +57,7 @@
 
 ### 💼 Professional Experience
 
-**🚀 Founder & Full-Stack Developer** @ FaraIdeh Team *(Nov 2024 - Present)*
+**🚀 Founder & Full-Stack Developer** @ FaraIdeh Team *(Nov 2025 - Present)*
 - Built a complete digital agency platform with Next.js 15, Prisma, and TypeScript
 - Developed CMS, blog system, admin panel, and client management features
 - [View Project →](https://github.com/sb878787/FaraIdeh)
