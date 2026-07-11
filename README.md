@@ -7,7 +7,6 @@
 
 <p align="center">
 🏆 2nd Place - National Digital Content Competition (2023) <br/>
-🏆 2nd Place - Provincial Kharazmi Festival (2022) <br/>
 🚀 Founder of <a href="https://fara-ideh.ir">FaraIdeh</a> - Digital Agency Platform
 </p>
 
@@ -57,27 +56,14 @@
 
 ### 💼 Professional Experience
 
-**🚀 Founder & Full-Stack Developer** @ FaraIdeh Team *(Nov 2025 - Present)*
+**🚀 Front-end Developer & Project Owner** @ FaraIdeh Team *(Nov 2025 - Present)*
 - Built a complete digital agency platform with Next.js 15, Prisma, and TypeScript
 - Developed CMS, blog system, admin panel, and client management features
 - [View Project →](https://github.com/sb878787/FaraIdeh)
 
-**💻 Front-End Developer** @ Falinoos Company *(Jul 2025 - Oct 2025)*
-- Developed MegaPaper web app using Next.js & MUI
-- Optimized Elasticsearch with Docker for enhanced search performance
-- [View Project →](https://github.com/sb878787/Docker-ElasticSearch)
-
 **🎨 Front-End Intern** @ Naranj Company *(Jul 2023 - Oct 2023)*
 - Designed UI for internal tools with Vue.js & Tailwind CSS
 - [View Project →](https://github.com/sb878787/naranj)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sb878787&theme=dark&hide_border=false" />
-</div>
 
 ---
 
